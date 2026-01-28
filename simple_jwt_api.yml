@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
         - name: simple-jwt-api
-          image: CONTAINER_IMAGE
+          image: 205825744082.dkr.ecr.us-east-2.amazonaws.com/simple-jwt-api:tag
           securityContext:
             privileged: false
             readOnlyRootFilesystem: false
