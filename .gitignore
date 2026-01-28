@@ -30,3 +30,4 @@ htmlcov/
 venv
 venv/
 .github/**
+venv/**
